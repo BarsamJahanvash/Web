@@ -185,7 +185,7 @@
   .u-section-1 .u-btn-2 {
     font-size: 0.875rem;
     margin-top: -35px;
-    margin-left: 54px;
+    margin-left: 65px;
     padding: 6px 4px 7px;
   }
 }
@@ -263,12 +263,12 @@
   }
 
   .u-section-1 .u-btn-1 {
+    margin-top: 30px;
     margin-right: auto;
-    margin-left: 16px;
+    margin-left: 28px;
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: -46px;
     margin-right: 16px;
     margin-left: auto;
   }
