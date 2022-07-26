@@ -469,6 +469,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-family: aviny-7001;
   margin: 14px 0 0;
 }
 
@@ -509,6 +510,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-family: aviny-7001;
   margin: 14px 0 0;
 }
 
@@ -549,6 +551,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-family: aviny-7001;
   margin: 14px 0 0;
 }
 
@@ -589,6 +592,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-family: aviny-7001;
   margin: 14px 0 0;
 }
 
@@ -628,6 +632,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-family: aviny-7001;
   margin: 14px 0 0;
 }
 
@@ -668,6 +673,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-family: aviny-7001;
   margin: 14px 0 0;
 }
 
@@ -910,12 +916,20 @@
 .u-section-4 .u-text-2 {
   font-family: aviny-7001;
   letter-spacing: 0px;
+  font-size: 1.125rem;
   margin: 45px auto 60px;
 }
 
 .u-section-4 .u-btn-1 {
   background-image: none;
+  font-size: 0.875rem;
   padding: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-text-2 {
+    font-size: 0.875rem;
+  }
 }
 
 @media (max-width: 767px) {
@@ -934,6 +948,10 @@
     height: 35px;
     width: 311px;
     margin-top: 92px;
+  }
+
+  .u-section-4 .u-text-2 {
+    font-size: 0.625rem;
   }
 }@font-face {
   font-family: 'aviny-7001';
