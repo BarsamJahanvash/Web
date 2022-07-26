@@ -454,14 +454,13 @@
 .u-section-3 .u-icon-1 {
   height: 99px;
   width: 99px;
-  background-image: none;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
+  background-image: none;
   margin: 6px auto 0;
-  padding: 21px;
 }
 
 .u-section-3 .u-text-2 {
@@ -495,14 +494,13 @@
 .u-section-3 .u-icon-2 {
   height: 99px;
   width: 99px;
-  background-image: none;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
+  background-image: none;
   margin: 6px auto 0;
-  padding: 21px;
 }
 
 .u-section-3 .u-text-4 {
@@ -536,14 +534,13 @@
 .u-section-3 .u-icon-3 {
   height: 99px;
   width: 99px;
-  background-image: none;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
+  background-image: none;
   margin: 6px auto 0;
-  padding: 21px;
 }
 
 .u-section-3 .u-text-6 {
@@ -577,14 +574,13 @@
 .u-section-3 .u-icon-4 {
   height: 99px;
   width: 99px;
-  background-image: none;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
+  background-image: none;
   margin: 6px auto 0;
-  padding: 21px;
 }
 
 .u-section-3 .u-text-8 {
@@ -616,16 +612,14 @@
 }
 
 .u-section-3 .u-icon-5 {
-  height: 99px;
+  height: 109px;
   width: 99px;
-  background-image: none;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
   margin: 6px auto 0;
-  padding: 21px;
 }
 
 .u-section-3 .u-text-10 {
@@ -659,14 +653,13 @@
 .u-section-3 .u-icon-6 {
   height: 99px;
   width: 99px;
-  background-image: none;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
+  background-image: none;
   margin: 6px auto 0;
-  padding: 21px;
 }
 
 .u-section-3 .u-text-12 {
@@ -705,22 +698,31 @@
 
   .u-section-3 .u-icon-1 {
     color: rgb(255, 255, 255);
+    padding: 21px;
   }
 
   .u-section-3 .u-icon-2 {
     color: rgb(255, 255, 255);
+    padding: 21px;
+  }
+
+  .u-section-3 .u-icon-3 {
+    padding: 21px;
   }
 
   .u-section-3 .u-icon-4 {
     color: rgb(255, 255, 255);
+    padding: 21px;
   }
 
   .u-section-3 .u-icon-5 {
     color: rgb(255, 255, 255);
+    padding: 21px;
   }
 
   .u-section-3 .u-icon-6 {
     color: rgb(255, 255, 255);
+    padding: 21px;
   }
 }
 
